@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mamuduhu" target="blank"><img src="https://img.shields.io/twitter/follow/mamuduhu?logo=twitter&style=for-the-badge" alt="mamuduhu" /></a> </p>
 
-- 💬 Ask me about **react, svelte and flutter**
+- 🔭 I’m currently working on **Rocket League overlays**
+
+- 🌱 I’m currently learning **react, svelte and flutter**
 
 - 📫 How to reach me **mamdouh.waleed.96@gmail.com**
 
