@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mamdouh.waleed.96@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing](my resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
