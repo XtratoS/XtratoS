@@ -11,7 +11,7 @@
 
 - 📫 Email me via **mamdouh.waleed.96@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
+- 📄 Know about my experiences by checking my [Resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
