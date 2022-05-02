@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react, svelte and flutter**
 
-- 📫 How to reach me **mamdouh.waleed.96@gmail.com**
+- 📫 Contact me via **mamdouh.waleed.96@gmail.com**
 
 - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
 
