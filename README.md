@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamdouh</h1>
-<h3 align="center">A Passionate Esports Enthusiast And Frontend Developer From Egypt</h3>
+<h3 align="center">A Passionate Esports Tournament Organizer And Frontend Developer From Egypt</h3>
 
 - ▶️ I make Rocket League stream overlays
 
