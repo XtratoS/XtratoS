@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamdouh</h1>
 <h3 align="center">A Passionate Esports Enthusiast And Frontend Developer From Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/mamuduhu" target="blank"><img src="https://img.shields.io/twitter/follow/mamuduhu?logo=twitter&style=for-the-badge" alt="mamuduhu" /></a> </p>
-
 - ▶️ I make Rocket League stream overlays
 
 - 🌱 I’m currently learning **Software Engineering, Svelte and Sveltekit**
