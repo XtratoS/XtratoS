@@ -3,20 +3,21 @@
 
 <p align="left"> <a href="https://twitter.com/mamuduhu" target="blank"><img src="https://img.shields.io/twitter/follow/mamuduhu?logo=twitter&style=for-the-badge" alt="mamuduhu" /></a> </p>
 
-- 🔭 I contribute in [Liquipedia Modules](https://github.com/Liquipedia/Lua-Modules/tree/main/components/automatic-points-table)
-
 - ▶️ I make Rocket League stream overlays
 
-- 🌱 I’m currently learning **react, svelte and flutter**
+- 🌱 I’m currently learning **Software Engineering, Svelte and Sveltekit**
+
+- I'm Head Admin for RLCS MENA
+
+- 📄 Check my [Resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
 
 - 📫 Email me via **mamdouh.waleed.96@gmail.com**
 
-- 📄 Know about my experiences by checking my [Resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mamuduhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamuduhu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mamdouhwaleed"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" width="30" /></a>
 <a href="https://fb.com/mamuduhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamuduhu" height="30" width="40" /></a>
+<a href="https://twitter.com/mamuduhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamuduhu" height="30" width="40" /></a>
 <a href="https://instagram.com/mamdouh.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mamdouh.96" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/xtratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xtratos" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xtratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xtratos" height="30" width="40" /></a>
