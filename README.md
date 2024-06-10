@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Software Engineering, Svelte and Sveltekit**
 
-- I'm Head Admin for RLCS MENA
-
 - 📄 Check my [Resume](https://docs.google.com/document/d/1IupSSPvemJ0HnovinQb69C7vge1RJbi6d80gy75SSnw/edit?usp=sharing)
 
 - 📫 Email me via **mamdouh.waleed.96@gmail.com**
